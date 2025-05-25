@@ -23,6 +23,7 @@ To write a Python Program to count the number of digits in a number.
 6. **End**
 
 ### PROGRAM
+```
 Reg no-212223060214
 Name-s pugazhendhi
 write a program 
@@ -33,7 +34,7 @@ while(n >0):
     count=count+1
     n=n//10
 print("The number of digits in the number are:",count)
-
+```
 ### OUTPUT
 
 ![image](https://github.com/user-attachments/assets/3a32dd8b-a282-49f6-8ada-3533665ea5d0)
